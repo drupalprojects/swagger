@@ -12,22 +12,5 @@
   },
   "require": {
     "swagger-api/swagger-ui": "2.2.10"
-  },
-  "repositories": [
-    {
-      "type": "package",
-      "package":{
-        "name": "swagger-api/swagger-ui",
-        "version": "2.2.10",
-        "type": "drupal-library",
-        "dist"    : {
-          "url": "https://github.com/swagger-api/swagger-ui/archive/v2.2.10.zip",
-          "type": "zip"
-        },
-        "require": {
-            "composer/installers": "~1.0"
-        }
-      }
-    }
-  ]
+  }
 }
