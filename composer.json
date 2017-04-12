@@ -23,6 +23,9 @@
         "dist"    : {
           "url": "https://github.com/swagger-api/swagger-ui/archive/v2.2.10.zip",
           "type": "zip"
+        },
+        "require": {
+            "composer/installers": "~1.0"
         }
       }
     }
